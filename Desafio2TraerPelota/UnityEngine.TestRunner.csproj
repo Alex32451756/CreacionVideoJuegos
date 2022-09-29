@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{33c75445-4184-af1e-9adc-992614af5adc}</ProjectGuid>
+    <ProjectGuid>{df026575-bc22-ac43-c159-faf6eeaf2075}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.TestRunner</AssemblyName>
@@ -401,7 +401,7 @@
         <HintPath>D:\Sistema\2021.3.10f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\Cuatrimestre 10\DesarrolloVideoJuegos\Unidad1\Leccion2\DesafioTraerPelota\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\Cuatrimestre 10\DesarrolloVideoJuegos\Unidad1\Desafio2TraerPelota\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:\Sistema\2021.3.10f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6b3fc0d4-a1cb-5d2a-2f1c-b97adda609d1}</ProjectGuid>
+    <ProjectGuid>{eab91dce-7348-afa9-e6da-ccca5b501d6d}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEditor.TestRunner</AssemblyName>
@@ -456,7 +456,7 @@
         <HintPath>D:\Sistema\2021.3.10f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\Cuatrimestre 10\DesarrolloVideoJuegos\Unidad1\Leccion2\DesafioTraerPelota\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\Cuatrimestre 10\DesarrolloVideoJuegos\Unidad1\Desafio2TraerPelota\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>D:\Sistema\2021.3.10f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -836,7 +836,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{33c75445-4184-af1e-9adc-992614af5adc}</Project>
+      <Project>{df026575-bc22-ac43-c159-faf6eeaf2075}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
