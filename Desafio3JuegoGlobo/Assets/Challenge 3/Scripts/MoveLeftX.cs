@@ -2,10 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+    Autor:José Alejandro Cruz Medina
+    Fecha: 20/10/2022
+    Descripción:Esta es la clase para mover los objetos y el fondo a la izquierda.
+*/
+
 public class MoveLeftX : MonoBehaviour
 {
+    //Variable para la velocidad
     public float speed;
+    //Hacemos un objeto de tipo PlayerControllerX
     private PlayerControllerX playerControllerScript;
+    
     private float leftBound = -10;
 
     // Start is called before the first frame update
