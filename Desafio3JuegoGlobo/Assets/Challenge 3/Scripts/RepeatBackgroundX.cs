@@ -2,9 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+    Autor:José Alejandro Cruz Medina
+    Fecha: 20/10/2022
+    Descripción:Esta es la clase para repitir el fondo.
+*/
+
 public class RepeatBackgroundX : MonoBehaviour
 {
+    //Declaramos una variable de Vector3 para la posición
     private Vector3 startPos;
+    //Variable para el ancho del fondo
     private float repeatWidth;
 
     private void Start()
