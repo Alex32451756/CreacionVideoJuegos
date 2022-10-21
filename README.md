@@ -34,31 +34,31 @@
 
 ## Código Fuente
 
-* Lección 1
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio1_y_videoDesafio1">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio1Avion">Desafío</a>
-  * > <a href="">Prueba</a>
-* Lección 2
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio2_y_videoDesafio2">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio2TraerPelota">Desafío</a>
-  * > <a href="">Prueba</a>
-* Lección 3
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio3_y_videoDesafio3">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio3JuegoGlobo">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Examen3">Prueba</a>
+* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1">Lección 1</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Prueba">Prueba</a>
+* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2">Lección 2</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Prueba">Prueba</a>
+* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3">Lección 3</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Prueba">Prueba</a>
 * Lección 4
   * > Tutorial<a href=""></a>
   * > Laboratorio<a href=""></a>
   * > Desafío<a href=""></a>
   * > Prueba<a href=""></a>
-* Lección 5
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio5_y_videoDesafio5">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio5AplastaComida">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Examen5">Prueba</a>
+* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5">Lección 5</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Prueba">Prueba</a>
 * VideoJuego
 
 ## Planificación
