@@ -35,30 +35,30 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial(#Leccion1)
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1"></a>
+  * > Laboratorio<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio1_y_videoDesafio1"></a>
+  * > Desafío<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio1Avion"></a>
+  * > Prueba<a href=""></a>
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2"></a>
+  * > Laboratorio<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio2_y_videoDesafio2"></a>
+  * > Desafío<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio2TraerPelota"></a>
+  * > Prueba<a href=""></a>
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3"></a>
+  * > Laboratorio<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio3_y_videoDesafio3"></a>
+  * > Desafío<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio3JuegoGlobo"></a>
+  * > Prueba<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Examen3"></a>
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial<a href=""></a>
+  * > Laboratorio<a href=""></a>
+  * > Desafío<a href=""></a>
+  * > Prueba<a href=""></a>
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Tutorial<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5"></a>
+  * > Laboratorio<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/laboratorio5_y_videoDesafio5"></a>
+  * > Desafío<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Desafio5AplastaComida"></a>
+  * > Prueba<a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Examen5"></a>
 * VideoJuego
 
 ## Planificación
