@@ -42,7 +42,7 @@
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2">Lección 2</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Dasaf%C3%ADo">Desafío</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Prueba">Prueba</a>
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3">Lección 3</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
