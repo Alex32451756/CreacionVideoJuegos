@@ -37,7 +37,7 @@
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1">Lección 1</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Tutorial">Tutorial</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Dasaf%C3%ADo">Desafío</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Prueba">Prueba</a>
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2">Lección 2</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
@@ -47,7 +47,7 @@
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3">Lección 3</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Dasaf%C3%ADo">Desafío</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Prueba">Prueba</a>
 * Lección 4
   * > Tutorial<a href=""></a>
@@ -57,7 +57,7 @@
 * <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5">Lección 5</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Tutorial">Tutorial</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Desafío">Desafío</a>
+  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Dasaf%C3%ADo">Desafío</a>
   * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Prueba">Prueba</a>
 * VideoJuego
 
