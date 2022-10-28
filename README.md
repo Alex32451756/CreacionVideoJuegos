@@ -35,9 +35,9 @@
   * > <p>Escenario: Carreta, Casas, Bosques</p>
 
 * Historia
-  * > <p>o	El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
+  * > <p>El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
 * Personajes
-  * > <p>Carros</p>
+  * > <p>Carro: Tendrá sonido de aceleración como de frenado y también sonido al momento de impactar con un objeto además tendrá una música de fondo durante el juego.</p>
   * > <p>Objetos</p>
 * Reglas de Juego.
   * > <p>El jugador no podrá salir de la pista</p>
@@ -46,6 +46,9 @@
   * > <p>No podrá atravesar obstáculos</p>
   * > <p>No se podrá agarrar más de un PowerUp a la vez</p>
 * Pantallas de Juego
+  * > <p>Pantalla de registro de apodo de jugador</p>
+  * > <p>Pantalla de inicio de juego</p>
+  * > <p>Pantalla de game Over</p>
   * > <p>Primer nivel: Una carretera en el bosque</p>
   * > <p>Segundo Nivel: Una pista en la ciudad</p>
   * > <p>Tercer Nivel: Una pista con intercambio de paisajes</p>
