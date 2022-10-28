@@ -23,34 +23,34 @@
 
 ## Introducción
 
-- Nombre del proyecto
-    <p>Fast Road</p>
-- Objetivo.
-<p>o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta.</p>
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+* Nombre del proyecto
+   * > <p>Fast Road</p>
+* Objetivo.
+  * ><p>o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta.</p>
+* Plataforma ,Género, Clasificación, Personajes, Escenario.
   * > <p>Plataforma: 3D</p>
   * > <p>Género: Carrera</p>
   * > <p>Clasificación: Para mayores de 10 años</p>
   * > <p>Personajes: Carro</p>
   * > <p>Escenario: Carreta, Casas, Bosques</p>
 
-- Historia
-<p>o	El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
-- Personajes
+* Historia
+  * > <p>o	El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
+* Personajes
   * > <p>Carros</p>
   * > <p>Objetos</p>
-- Reglas de Juego.
+* Reglas de Juego.
   * > <p>El jugador no podrá salir de la pista</p>
   * > <p>Una vez que agarre un PowerUp será temporal</p>
   * > <p>Clasificación: Para mayores de 10 años</p>
   * > <p>No podrá atravesar obstáculos</p>
   * > <p>No se podrá agarrar más de un PowerUp a la vez</p>
-- Pantallas de Juego
+* Pantallas de Juego
   * > <p>Primer nivel: Una carretera en el bosque</p>
   * > <p>Segundo Nivel: Una pista en la ciudad</p>
   * > <p>Tercer Nivel: Una pista con intercambio de paisajes</p>
-- Plan de creación de VideoJuego.
-<p></p>
+* Plan de creación de VideoJuego.
+ * > <p></p>
 
 ## Código Fuente
 
