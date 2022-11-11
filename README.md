@@ -25,32 +25,60 @@
 
 * Nombre del proyecto
    * > <p>Fast Road</p>
-* Objetivo.
-  * ><p>o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta.</p>
-* Plataforma ,Género, Clasificación, Personajes, Escenario.
-  * > <p>Plataforma: 3D</p>
-  * > <p>Género: Carrera</p>
-  * > <p>Clasificación: Para mayores de 10 años</p>
-  * > <p>Personajes: Carro</p>
-  * > <p>Escenario: Carreta, Casas, Bosques</p>
-
-* Historia
-  * > <p>o	El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
-* Personajes
-  * > <p>Carros</p>
-  * > <p>Objetos</p>
-* Reglas de Juego.
-  * > <p>El jugador no podrá salir de la pista</p>
-  * > <p>Una vez que agarre un PowerUp será temporal</p>
-  * > <p>Clasificación: Para mayores de 10 años</p>
-  * > <p>No podrá atravesar obstáculos</p>
-  * > <p>No se podrá agarrar más de un PowerUp a la vez</p>
-* Pantallas de Juego
-  * > <p>Primer nivel: Una carretera en el bosque</p>
-  * > <p>Segundo Nivel: Una pista en la ciudad</p>
-  * > <p>Tercer Nivel: Una pista con intercambio de paisajes</p>
-* Plan de creación de VideoJuego.
- * > <p></p>
+<li> Objetivo. </li>
+    <ul style= "list-style-type: circle;">
+    <li> El jugador deberá de evitar los obstáculos que aparezcan a lo largo en un escenario 3D para poder llegar a la meta y así de esa forma finalizar cada nivel y continuar con el siguiente. </li>
+    </ul>
+   
+<li> Plataforma ,Género, Clasificación, Personajes, Escenario.</li>
+     <ul style= "list-style-type: circle;">
+         <li> Plataforma: 3D </li>
+         <li> Género: Carrera </li>
+         <li> Clasificación: Para mayores de 10 años </li>
+         <li> Personajes: Carro </li>
+         <li> Escenario: Carreta, Casas, Bosques </li></ul>
+       
+<li> Historia</li>
+         <ul style= "list-style-type: circle;">
+    <li> El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
+    </ul>
+<li> Personajes</li>
+    <ul style= "list-style-type: circle;">
+        <li> Carro: Tendrá sonido de aceleración como de frenado y también sonido al momento de impactar con un objeto además tendrá una  música de fondo durante el juego. </li>
+        <li> Objetos: Enemigos de colisión con los cuales se impacta el jugador y de esta manera es Game Over. </li>
+    </ul>
+   
+<li> Reglas de Juego.</li>
+    <ul style= "list-style-type: circle;">
+        <li> El jugador no podrá salir de la pista. </li>
+        <li> Una vez que agarre un PowerUp será temporal. </li>
+        <li> No podrá atravesar obstáculos. </li>
+        <li> No se podrá agarrar más de un PowerUp a la vez.  </li>
+        <li> Cada que haya una colisión con un objeto se reiniciara el nivel. </li>
+    </ul>
+<li> Pantallas de Juego</li>
+    <ul style= "list-style-type: circle;">
+        <li> Pantalla de registro de apodo de usuario </li>
+        <li> Pantalla de inicio de juego </li>
+        <li> Pantalla de game Over </li>
+        <li> Primer nivel: Una carretera en el bosque </li>
+        <li> Segundo Nivel: Una pista en la ciudad </li>
+        <li> Tercer Nivel: Una pista con intercambio de paisajes </li>
+        <li> Mejores Jugadores: Mostrara una pantalla con 5 mejores puntajes </li>
+    </ul>
+    <li> Prototipos de Pantallas </li>
+    <ul style= "list-style-type: circle;">
+        <li> Pantalla Inicial </li>
+        <img src="https://user-images.githubusercontent.com/56412490/199998933-d06b80c0-0a78-4a8b-b08c-02945dc06bc2.png"  alt="Pantalla Inicial" width="700"/>
+        <li> Nivel 1 </li>
+        <img src="https://user-images.githubusercontent.com/56412490/200000596-d2097757-5757-4ad3-8860-d7563f56d4d7.png" alt="Nivel 1" width="700"/>
+        <li> Nivel 2 </li>
+        <img src="https://user-images.githubusercontent.com/56412490/200000923-af0e8edd-a7be-4f0b-a9af-3e364d36c9e6.png" alt="Nivel 2" width="700"/>
+        <li> Pantalla Fin de Juego </li>
+        <img src="https://user-images.githubusercontent.com/56412490/200000996-36923256-34ef-48e5-b48f-677a8990c43f.png" alt="Pantalla Fin de Juego" width="700"/>
+        <li> Puntuaciones </li>
+        <img src="https://user-images.githubusercontent.com/56412490/200001074-f2bd5717-55b5-4b16-9b72-d6abab13f584.png" alt="Puntuaciones" width="700"/>
+    </ul>
 
 ## Código Fuente
 
