@@ -25,6 +25,7 @@
 
 * Nombre del proyecto
    * > <p>Fast Road</p>
+<<<<<<< HEAD
 <li> Objetivo. </li>
     <ul style= "list-style-type: circle;">
     <li> El jugador deberá de evitar los obstáculos que aparezcan a lo largo en un escenario 3D para poder llegar a la meta y así de esa forma finalizar cada nivel y continuar con el siguiente. </li>
@@ -79,6 +80,37 @@
         <li> Puntuaciones </li>
         <img src="https://user-images.githubusercontent.com/56412490/200001074-f2bd5717-55b5-4b16-9b72-d6abab13f584.png" alt="Puntuaciones" width="700"/>
     </ul>
+=======
+* Objetivo.
+  * ><p>o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta.</p>
+* Plataforma ,Género, Clasificación, Personajes, Escenario.
+  * > <p>Plataforma: 3D</p>
+  * > <p>Género: Carrera</p>
+  * > <p>Clasificación: Para mayores de 10 años</p>
+  * > <p>Personajes: Carro</p>
+  * > <p>Escenario: Carreta, Casas, Bosques</p>
+
+* Historia
+  * > <p>El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</p>
+* Personajes
+  * > <p>Carro: Tendrá sonido de aceleración como de frenado y también sonido al momento de impactar con un objeto además tendrá una música de fondo durante el juego.</p>
+  * > <p>Objetos</p>
+* Reglas de Juego.
+  * > <p>El jugador no podrá salir de la pista</p>
+  * > <p>Una vez que agarre un PowerUp será temporal</p>
+  * > <p>Clasificación: Para mayores de 10 años</p>
+  * > <p>No podrá atravesar obstáculos</p>
+  * > <p>No se podrá agarrar más de un PowerUp a la vez</p>
+* Pantallas de Juego
+  * > <p>Pantalla de registro de apodo de jugador</p>
+  * > <p>Pantalla de inicio de juego</p>
+  * > <p>Pantalla de game Over</p>
+  * > <p>Primer nivel: Una carretera en el bosque</p>
+  * > <p>Segundo Nivel: Una pista en la ciudad</p>
+  * > <p>Tercer Nivel: Una pista con intercambio de paisajes</p>
+* Plan de creación de VideoJuego.
+ * > <p></p>
+>>>>>>> 24b62b6eadbf9d80dc6ecaf828f7e6f7f556146c
 
 ## Código Fuente
 
