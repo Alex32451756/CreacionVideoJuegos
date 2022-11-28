@@ -84,6 +84,9 @@
 <li> Plan de creación de VideoJuego.</li>
     <ul style= "list-style-type: circle;">
         <li>Trello: https://trello.com/b/5wo53zwA/desarrollo-de-video-juegos </li>
+        <li>Versiones del Juego.</li>
+    <ul style= "list-style-type: circle;">
+        <li>Drive: https://drive.google.com/drive/folders/17wPsiBZrtgECHCeg0ISSYEjQb5pZ28lw </li>
     </ul>
 </ul>
 
