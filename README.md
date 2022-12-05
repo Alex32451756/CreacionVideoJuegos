@@ -88,6 +88,10 @@
     <ul style= "list-style-type: circle;">
         <li>Drive: https://drive.google.com/drive/folders/17wPsiBZrtgECHCeg0ISSYEjQb5pZ28lw </li>
     </ul>
+            <li>Link de Decarga.</li>
+    <ul style= "list-style-type: circle;">
+        <li>https://alexcrz.itch.io/fastrun</li>
+    </ul>
 </ul>
 
 
